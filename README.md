@@ -1,4 +1,4 @@
-## Hi! My name's Chris. I'm currently learning everything I can about programming! Im working at MM Tecnologia.
+## Hi! My name's Chris! Welcome to my GitHub
 <div align="center">
   <a href="https://github.com/christofermendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christofermendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
