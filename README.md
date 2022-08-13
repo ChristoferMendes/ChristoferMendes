@@ -13,7 +13,6 @@
  <img align="center" alt="Chris-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"> 
   
   ##
-  
-  ![Snake animation](https://github.com/christofermendes/christofermendes/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
