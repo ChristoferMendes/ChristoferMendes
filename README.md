@@ -17,7 +17,7 @@
   <img align="center" alt="Chris-Docker" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Chris-MySQL" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Chris-GraphQL" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-   <img align="center" alt="Chris-PostgresQL" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/porstgresql/postgresql-original-wordmark.svg" />
+   <img align="center" alt="Chris-PostgresQL" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   ##
 
  
