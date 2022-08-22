@@ -1,4 +1,7 @@
-## Hi! My name's Chris! Welcome to my GitHub
+# Hi! My name's Chris! Welcome to my GitHub
+
+## Currently working at MM Tecnologia.
+### 19 years old
 <div align="center">
   <a href="https://github.com/christofermendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristoferMendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
