@@ -1,6 +1,6 @@
 # Hi! My name's Chris! Welcome to my GitHub
 
-## Currently working at MM Tecnologia.
+## Currently working at MM Tecnologia da informação
 
 <div align="center">
   <a href="https://github.com/christofermendes">
