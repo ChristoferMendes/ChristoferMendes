@@ -25,16 +25,3 @@
   ##
   
 </div>
-
-<div> 
-
-  ## Social and others: 
-  <div align='center'>
-  
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/christofer-mendes-073a7a249/ta)
- 
- [<img src="https://www.unixtutorial.org/images/software/docker-hub.png" width='125' height='45'>](https://www.linkedin.com/in/christofer-mendes-073a7a249/ta)
-  
-  </div>
-  
-</div>
