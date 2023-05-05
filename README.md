@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EB6F92FF&height=150&section=header&text=Fullstack%20Developer&fontSize=40&animation=fadeIn&fontAlignY=38&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EB6F92FF&height=200&section=header&text=Fullstack%20Developer&fontSize=40&animation=fadeIn&fontAlignY=38&fontColor=fff" />
   
 <div align="center">
   
