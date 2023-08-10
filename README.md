@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EB6F92FF&height=200&section=header&text=Fullstack%20Developer&fontSize=40&animation=fadeIn&fontAlignY=38&fontColor=fff" />
-  
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EB6F92&repeat=false&width=435&lines=Hello%2C+my+name+is+Christofer+Mendes;I'm+a+frontend+and+backend+developer)](https://git.io/typing-svg)
