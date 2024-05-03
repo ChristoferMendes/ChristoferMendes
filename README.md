@@ -49,10 +49,7 @@
   ![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![SQLServer](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;
-  
-  
-  recently switched account
+  ![SQLServer](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;  
 </div>
   
 </div>
