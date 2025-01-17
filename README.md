@@ -27,14 +27,15 @@
   ![RabitMQ](https://img.shields.io/badge/-RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&labelColor=0D1117)&nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
   ![Postgres](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+  ![SQLServer](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;
   ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117)&nbsp;
+  
 
   ### Tools:
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
   
-
   ### Other Knowledge:
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
   ![Symfony](https://img.shields.io/badge/-Simfony-0D1117?style=for-the-badge&logo=symfony&labelColor=0D1117)&nbsp;
@@ -42,14 +43,12 @@
   ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
   ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
   ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
-  ![SQLServer](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;
+  
   
 
   ### Studying in this moment:
-  ![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![SQLServer](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;  
+  ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 </div>
   
 </div>
