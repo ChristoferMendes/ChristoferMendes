@@ -13,7 +13,7 @@
 <hr />  
 <div align="center">
   
-[![Tecnologies](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=435&lines=Technologies!)](https://git.io/typing-svg)
+[![Tecnologies](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=435&lines=Technologies)](https://git.io/typing-svg)
 
   <div align="center"> 
 
