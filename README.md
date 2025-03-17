@@ -11,11 +11,11 @@
 </div>
   
 <hr />  
-<div align="center">
+<div>
   
-[![Tecnologies](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=435&lines=Technologies)](https://git.io/typing-svg)
+## Tecnologies
 
-  <div align="center"> 
+  <div> 
 
   ### Main skills:
   ![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
