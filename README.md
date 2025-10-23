@@ -42,12 +42,39 @@
   ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
   ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
   ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
-  
-  
 
   ### Studying in this moment:
   ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+
+  
+  ## Highlight Project
+
+<div align="center">
+
+  <!-- Logo theme-aware (usa a mesma largura/altura p/ não “pular”) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/83e3f272-77e3-4366-b8cc-33fbe471ac61"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a0402ec6-1e42-4c8e-9ff7-4902011fd4df"/>
+    <img alt="Kronos — recording app logo" src="https://github.com/user-attachments/assets/a0402ec6-1e42-4c8e-9ff7-4902011fd4df" width="96" height="96">
+  </picture>
+
+  <h3>Meet <a href="https://kronosrec.com/" target="blank">Kronos</a></h3>
+  <p><em>Fast, organized, and refreshing recording app.</em></p>
+
+  <!-- Botões (shields) -->
+  <a href="https://kronosrec.com/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-kronosrec.com-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117">
+  </a>
+
+  <p>
+    Kronos is your recording app for fast workflows. It automatically organizes recordings into your custom folders, can upload directly to YouTube, and lets you tailor colors and layout to your style.
+  </p>
 </div>
+
+  
+</div>
+
+
   
 </div>
