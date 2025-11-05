@@ -49,7 +49,7 @@
 
   
 
-## Highlight Project
+## Highlight Personal Project
 
 <!-- Logo fixo à esquerda -->
 <picture>
